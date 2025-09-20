@@ -53,7 +53,7 @@ The project demonstrates NLP preprocessing, text vectorization, model training, 
 - Feature importance for tree-based models.  
 
 # How to Run
-1. Place the dataset in the `datasets` folder:
+1. Dataset: spam.csv
 2. Run the script:
 ```bash
 python task_4.py
